@@ -2,12 +2,18 @@
 
 This repository contains two parts:
 
-1. A **Blog API** built using **Python, FastAPI, SQLAlchemy, and SQLite**  
-2. A simple algorithm to **find all pairs in a list that sum to a target value**
+1. A **Blog API** built using **Python, FastAPI, SQLAlchemy, and SQLite**
+2. An algorithm that finds **all number pairs in a list that sum to a target value**
 
-All Python files follow **PEP 8** and **PEP 257** standards for clean and readable code.
+All Python files follow **PEP 8** and **PEP 257** coding standards.
 
 ---
+
+## Clone the Repository
+
+```bash
+git clone https://github.com/Prabhab-Khanal/Intuji-Backend-Assigment
+```
 
 ## Part 1: Blog API (FastAPI)
 
@@ -24,10 +30,11 @@ API located in the `app/` folder.
 
 ## How to Run the API
 
-1. Activate virtual environment:
+1. Create and Activate virtual environment:
 
 **Windows**
 ```bash
+python -m venv venv
 venv\Scripts\activate
 ```
 
@@ -78,4 +85,5 @@ Pairs found: [(8, 2), (7, 3)]
 * Postman collection is included in the `postman/` folder.
 
 ---
+
 
