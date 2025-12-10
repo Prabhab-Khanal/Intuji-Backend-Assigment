@@ -31,8 +31,6 @@ API located in the `app/` folder.
 ## How to Run the API
 
 1. Create and Activate virtual environment:
-
-**Windows**
 ```bash
 python -m venv venv
 venv\Scripts\activate
@@ -85,5 +83,6 @@ Pairs found: [(8, 2), (7, 3)]
 * Postman collection is included in the `postman/` folder.
 
 ---
+
 
 
